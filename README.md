@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @divya520357
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning C++
+- i know basic of HTML and CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... www.linkedin.com/in/divya-aggarwal-538546205
 
