@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @divya520357
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming and graphics(stil a noob).
 - 🌱 I’m currently learning C++
 - i know basic of HTML and CSS.
 - 💞️ I’m looking to collaborate on ...
