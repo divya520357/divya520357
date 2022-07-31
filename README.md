@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Divya.
 - 👀 I’m interested in programming and graphic Designing.
 - 🌱 I’m currently learning C++ and React.js
-- i know HTML, CSS and JavaScript.
+- i know HTML, CSS and JavaScript. And frameworks like bootsrap and tailwindCSS
 
 - 📫 How to reach me ... https://www.linkedin.com/in/divya098
 
